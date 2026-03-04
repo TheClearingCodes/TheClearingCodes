@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# Website (hosted separately, not part of open source repo)
+website/
+
+# Guides (available separately)
+Guides/
+TheClearingCodesGuide.md
+
+# Advanced materials
+ProtocolInstructions.md
+ProtocolsAndAcronyms.md
+
+# Print materials
+TheClearingCodesBrochure.md
+
+# Personal scripts
+ModalityClearing*
+
+# Repo split files (meta)
+_repo-split/
+
+# Cursor
+.cursor/
